@@ -1,2 +1,15 @@
+form{
+	border:2px solid black;
+	padding:20px;
+	width:50%;
+	text-align:center;
+}
+input{
+	width:100%;
+}
+label{
+	display:block;
+	text-align:left;
+}
 
 /* Your CSS Code here. */
